@@ -17,7 +17,7 @@
 - Ejecutar la aplicación en streamlit run app.py
   
 ## ¿Qué puede hacer el usuario en la aplicación? 
-    - Ver el encabezado
-    - Generar un histograma del kilometraje de los vehículos
-    - Generar un diagrama de dispersión
-    - Puede usar un checkbox para visualizar la opción de su preferencia (histograma o gráfico de dispersión)
+- Ver el encabezado
+- Generar un histograma del kilometraje de los vehículos
+- Generar un diagrama de dispersión
+- Puede usar un checkbox para visualizar la opción de su preferencia (histograma o gráfico de dispersión)
